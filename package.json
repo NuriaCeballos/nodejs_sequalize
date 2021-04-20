@@ -1,0 +1,28 @@
+{
+  "name": "js_node_template",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "JLB",
+  "license": "ISC",
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "admin-bro": "^4.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "jest": "^26.6.3",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "notenv": "^2.0.3",
+    "sequelize": "^6.6.2",
+    "tslib": "^2.2.0"
+  },
+  "description": ""
+}
