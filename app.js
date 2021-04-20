@@ -23,7 +23,7 @@ app.use('/',rtMain)
 
 
 // configuración de la base de datos
-DB.authenticate()
+DB.connection.authenticate()
   .then(() => {
     console.log('DB MySQL arrancado.');
   })
