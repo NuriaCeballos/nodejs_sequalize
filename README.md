@@ -1,2 +1,13 @@
 # nodejs_sequalize
-### npm init
+### 
+npm install
+### run
+npm start 
+###
+npm jest // npm test
+###
+npm dotenv
+###
+npm sequelize
+###
+mysql
