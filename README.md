@@ -1,8 +1,9 @@
 # nodejs_sequalize
 ### 
 npm install
-### run
+### run 
 npm start 
+
 ###
 npm jest // npm test
 ###
